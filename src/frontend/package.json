@@ -34,7 +34,7 @@
     "ag-grid-community": "^32.0.2",
     "ag-grid-react": "^32.0.2",
     "ansi-to-html": "^0.7.2",
-    "axios": "^1.7.4",
+    "axios": "^1.12.2",
     "base64-js": "^1.5.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
@@ -43,7 +43,7 @@
     "dotenv": "^16.4.5",
     "elkjs": "^0.9.3",
     "emoji-regex": "^10.3.0",
-    "esbuild": "^0.21.5",
+    "esbuild": "^0.25.0",
     "fetch-intercept": "^2.4.0",
     "file-saver": "^2.0.5",
     "framer-motion": "^11.2.10",
@@ -145,6 +145,6 @@
     "tailwindcss-dotted-background": "^1.1.0",
     "typescript": "^5.4.5",
     "ua-parser-js": "^1.0.38",
-    "vite": "^5.4.19"
+    "vite": "^5.4.20"
   }
 }
